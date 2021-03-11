@@ -1,0 +1,5131 @@
+fileFormatVersion: 2
+guid: 75ff37a2c974e3f43bd74b245b64c00b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2270956477753962131
+    second: PIPUGEMU_0
+  - first:
+      213: -78244798699064367
+    second: PIPUGEMU_1
+  - first:
+      213: 666576402252201367
+    second: PIPUGEMU_2
+  - first:
+      213: 1030378413805652133
+    second: PIPUGEMU_3
+  - first:
+      213: 2258879821784970016
+    second: PIPUGEMU_4
+  - first:
+      213: 7098809063972987742
+    second: PIPUGEMU_5
+  - first:
+      213: 2495853411406085646
+    second: PIPUGEMU_6
+  - first:
+      213: 7292096193734977759
+    second: PIPUGEMU_7
+  - first:
+      213: 2653944967038561806
+    second: PIPUGEMU_8
+  - first:
+      213: 3061823661623119684
+    second: PIPUGEMU_9
+  - first:
+      213: 2522371870364007049
+    second: PIPUGEMU_10
+  - first:
+      213: 7817356314232964549
+    second: PIPUGEMU_11
+  - first:
+      213: 6291892028899745049
+    second: PIPUGEMU_12
+  - first:
+      213: 8647795653912574668
+    second: PIPUGEMU_13
+  - first:
+      213: 2518189552487287164
+    second: PIPUGEMU_14
+  - first:
+      213: -2651440378849492431
+    second: PIPUGEMU_15
+  - first:
+      213: -5752459917543676319
+    second: PIPUGEMU_16
+  - first:
+      213: -9047482864323091033
+    second: PIPUGEMU_17
+  - first:
+      213: -1669497731655257113
+    second: PIPUGEMU_18
+  - first:
+      213: 5603381755032450397
+    second: PIPUGEMU_19
+  - first:
+      213: 7160105435908209733
+    second: PIPUGEMU_20
+  - first:
+      213: 8238491929901092976
+    second: PIPUGEMU_21
+  - first:
+      213: -3221584135462449981
+    second: PIPUGEMU_22
+  - first:
+      213: 47529663301059569
+    second: PIPUGEMU_23
+  - first:
+      213: 1951399570398069620
+    second: PIPUGEMU_24
+  - first:
+      213: 8226441476334901199
+    second: PIPUGEMU_25
+  - first:
+      213: 8737349389006428597
+    second: PIPUGEMU_26
+  - first:
+      213: -7351446632005525725
+    second: PIPUGEMU_27
+  - first:
+      213: 3719580975099285055
+    second: PIPUGEMU_28
+  - first:
+      213: -8654313047240695811
+    second: PIPUGEMU_29
+  - first:
+      213: -4728814026994386165
+    second: PIPUGEMU_30
+  - first:
+      213: 5164657179814643832
+    second: PIPUGEMU_31
+  - first:
+      213: -3147315413088645169
+    second: PIPUGEMU_32
+  - first:
+      213: 3687668850351249214
+    second: PIPUGEMU_33
+  - first:
+      213: -2826739812051701420
+    second: PIPUGEMU_34
+  - first:
+      213: 3350032092515637057
+    second: PIPUGEMU_35
+  - first:
+      213: -8568093893635154075
+    second: PIPUGEMU_36
+  - first:
+      213: 12784142606536054
+    second: PIPUGEMU_37
+  - first:
+      213: 3018952820390086550
+    second: PIPUGEMU_38
+  - first:
+      213: 1936761669869046538
+    second: PIPUGEMU_39
+  - first:
+      213: 2504124528268691431
+    second: PIPUGEMU_40
+  - first:
+      213: 2750789792544126750
+    second: PIPUGEMU_41
+  - first:
+      213: -8406178706269004698
+    second: PIPUGEMU_42
+  - first:
+      213: 2304340092138240884
+    second: PIPUGEMU_43
+  - first:
+      213: -7963809424814527536
+    second: PIPUGEMU_44
+  - first:
+      213: 2371239664541010779
+    second: PIPUGEMU_45
+  - first:
+      213: 8973225166718248128
+    second: PIPUGEMU_46
+  - first:
+      213: -4245621491420195157
+    second: PIPUGEMU_47
+  - first:
+      213: 2886668019692305728
+    second: PIPUGEMU_48
+  - first:
+      213: 4723469701435285519
+    second: PIPUGEMU_49
+  - first:
+      213: 2586878229447597790
+    second: PIPUGEMU_50
+  - first:
+      213: 5058290375458310617
+    second: PIPUGEMU_51
+  - first:
+      213: -3999619654003388131
+    second: PIPUGEMU_52
+  - first:
+      213: 5008159940278838186
+    second: PIPUGEMU_53
+  - first:
+      213: 179671262717954401
+    second: PIPUGEMU_54
+  - first:
+      213: 8709780272339597173
+    second: PIPUGEMU_55
+  - first:
+      213: -2579685317928245324
+    second: PIPUGEMU_56
+  - first:
+      213: -5604212822627010546
+    second: PIPUGEMU_57
+  - first:
+      213: 9095955692330434318
+    second: PIPUGEMU_58
+  - first:
+      213: -1725079918388417939
+    second: PIPUGEMU_59
+  - first:
+      213: -1826864491303862692
+    second: PIPUGEMU_60
+  - first:
+      213: 7895122545522491880
+    second: PIPUGEMU_61
+  - first:
+      213: -3292283967693453624
+    second: PIPUGEMU_62
+  - first:
+      213: 6964512511594163720
+    second: PIPUGEMU_63
+  - first:
+      213: 5670877506011273578
+    second: PIPUGEMU_64
+  - first:
+      213: 4459767091471600997
+    second: PIPUGEMU_65
+  - first:
+      213: 80906675452547175
+    second: PIPUGEMU_66
+  - first:
+      213: -1538750589435348344
+    second: PIPUGEMU_67
+  - first:
+      213: -77548401377926103
+    second: PIPUGEMU_68
+  - first:
+      213: -4290816028939285284
+    second: PIPUGEMU_69
+  - first:
+      213: 3005017865360063725
+    second: PIPUGEMU_70
+  - first:
+      213: -664661021679068032
+    second: PIPUGEMU_71
+  - first:
+      213: 4073110008654097141
+    second: PIPUGEMU_72
+  - first:
+      213: 1171041396398979710
+    second: PIPUGEMU_73
+  - first:
+      213: -1189877052625944380
+    second: PIPUGEMU_74
+  - first:
+      213: 4653273082088837526
+    second: PIPUGEMU_75
+  - first:
+      213: -3288681777343078384
+    second: PIPUGEMU_76
+  - first:
+      213: 1110743818691031196
+    second: PIPUGEMU_77
+  - first:
+      213: 1490656036648931106
+    second: PIPUGEMU_78
+  - first:
+      213: -4740099052253608256
+    second: PIPUGEMU_79
+  - first:
+      213: -4509027339713600358
+    second: PIPUGEMU_80
+  - first:
+      213: 4204551435519473128
+    second: PIPUGEMU_81
+  - first:
+      213: 7089976407070937174
+    second: PIPUGEMU_82
+  - first:
+      213: -1502917942438421007
+    second: PIPUGEMU_83
+  - first:
+      213: -3252132613688208673
+    second: PIPUGEMU_84
+  - first:
+      213: 2630329328249754005
+    second: PIPUGEMU_85
+  - first:
+      213: -789797529189619758
+    second: PIPUGEMU_86
+  - first:
+      213: -3494289444031952964
+    second: PIPUGEMU_87
+  - first:
+      213: 460290929450968467
+    second: PIPUGEMU_88
+  - first:
+      213: -5368069082911871342
+    second: PIPUGEMU_89
+  - first:
+      213: 6666320659292848156
+    second: PIPUGEMU_90
+  - first:
+      213: -8068981093445444757
+    second: PIPUGEMU_91
+  - first:
+      213: 5429732526684668881
+    second: PIPUGEMU_92
+  - first:
+      213: -8560126154866747169
+    second: PIPUGEMU_93
+  - first:
+      213: -7220152088419947747
+    second: PIPUGEMU_94
+  - first:
+      213: 5035130052806875450
+    second: PIPUGEMU_95
+  - first:
+      213: 5003171839445762769
+    second: PIPUGEMU_96
+  - first:
+      213: 8297444879632927736
+    second: PIPUGEMU_97
+  - first:
+      213: -9055181801740283147
+    second: PIPUGEMU_98
+  - first:
+      213: 729272986224261487
+    second: PIPUGEMU_99
+  - first:
+      213: -5225714079160746643
+    second: PIPUGEMU_100
+  - first:
+      213: -2619012570676218933
+    second: PIPUGEMU_101
+  - first:
+      213: -7859415165549181499
+    second: PIPUGEMU_102
+  - first:
+      213: 7349045859551502641
+    second: PIPUGEMU_103
+  - first:
+      213: 416262556731714210
+    second: PIPUGEMU_104
+  - first:
+      213: -853939238217677795
+    second: PIPUGEMU_105
+  - first:
+      213: 7383658125945731696
+    second: PIPUGEMU_106
+  - first:
+      213: 3952078376661150634
+    second: PIPUGEMU_107
+  - first:
+      213: 868421750637648822
+    second: PIPUGEMU_108
+  - first:
+      213: -1535175173247038270
+    second: PIPUGEMU_109
+  - first:
+      213: -6099581159582974880
+    second: PIPUGEMU_110
+  - first:
+      213: 823625274612493099
+    second: PIPUGEMU_111
+  - first:
+      213: 70102578161573408
+    second: PIPUGEMU_112
+  - first:
+      213: 8048998734662554887
+    second: PIPUGEMU_113
+  - first:
+      213: -284143176114900472
+    second: PIPUGEMU_114
+  - first:
+      213: 6470224047792184319
+    second: PIPUGEMU_115
+  - first:
+      213: -4185505553097736403
+    second: PIPUGEMU_116
+  - first:
+      213: 637287996213051715
+    second: PIPUGEMU_117
+  - first:
+      213: -8577296390509036297
+    second: PIPUGEMU_118
+  - first:
+      213: 1909324857612707039
+    second: PIPUGEMU_119
+  - first:
+      213: 8702736640342616260
+    second: PIPUGEMU_120
+  - first:
+      213: -334915852600563266
+    second: PIPUGEMU_121
+  - first:
+      213: -4644826344906140132
+    second: PIPUGEMU_122
+  - first:
+      213: -2873632261448193433
+    second: PIPUGEMU_123
+  - first:
+      213: 5023365177083308537
+    second: PIPUGEMU_124
+  - first:
+      213: 6213483235264067477
+    second: PIPUGEMU_125
+  - first:
+      213: 588685291682495458
+    second: PIPUGEMU_126
+  - first:
+      213: -8290161114975554686
+    second: PIPUGEMU_127
+  - first:
+      213: -7334640721843100183
+    second: PIPUGEMU_128
+  - first:
+      213: 1959866703885543443
+    second: PIPUGEMU_129
+  - first:
+      213: -4512424844521829649
+    second: PIPUGEMU_130
+  - first:
+      213: -4510889865640335081
+    second: PIPUGEMU_131
+  - first:
+      213: -7870305573817888560
+    second: PIPUGEMU_132
+  - first:
+      213: 5774174596927453523
+    second: PIPUGEMU_133
+  - first:
+      213: -5363082192455994148
+    second: PIPUGEMU_134
+  - first:
+      213: 6333980586953129827
+    second: PIPUGEMU_135
+  - first:
+      213: -2814035037159333931
+    second: PIPUGEMU_136
+  - first:
+      213: 5014938528499755808
+    second: PIPUGEMU_137
+  - first:
+      213: -445629196900682021
+    second: PIPUGEMU_138
+  - first:
+      213: -3983147568836040574
+    second: PIPUGEMU_139
+  - first:
+      213: -2190538131971937331
+    second: PIPUGEMU_140
+  - first:
+      213: 9128257363466057254
+    second: PIPUGEMU_141
+  - first:
+      213: -5656971498061209234
+    second: PIPUGEMU_142
+  - first:
+      213: -324732528858255257
+    second: PIPUGEMU_143
+  - first:
+      213: 1064453931398278688
+    second: PIPUGEMU_144
+  - first:
+      213: 1779009223883733433
+    second: PIPUGEMU_145
+  - first:
+      213: 3173135890996636654
+    second: PIPUGEMU_146
+  - first:
+      213: -201910569277400426
+    second: PIPUGEMU_147
+  - first:
+      213: 2407046151029040183
+    second: PIPUGEMU_148
+  - first:
+      213: 7981293601713776286
+    second: PIPUGEMU_149
+  - first:
+      213: 3536348321329725862
+    second: PIPUGEMU_150
+  - first:
+      213: 6803180359329228485
+    second: PIPUGEMU_151
+  - first:
+      213: 749391326923821083
+    second: PIPUGEMU_152
+  - first:
+      213: 1998210274905039243
+    second: PIPUGEMU_153
+  - first:
+      213: 7867711677810110486
+    second: PIPUGEMU_154
+  - first:
+      213: -8881816762823201702
+    second: PIPUGEMU_155
+  - first:
+      213: -3979039160920464895
+    second: PIPUGEMU_156
+  - first:
+      213: 4874697953868615116
+    second: PIPUGEMU_157
+  - first:
+      213: 5649901421037220837
+    second: PIPUGEMU_158
+  - first:
+      213: 8498404226935937726
+    second: PIPUGEMU_159
+  - first:
+      213: 2948654272988271633
+    second: PIPUGEMU_160
+  - first:
+      213: -2060729420754674954
+    second: PIPUGEMU_161
+  - first:
+      213: -4435324304015934405
+    second: PIPUGEMU_162
+  - first:
+      213: 1208433989861288784
+    second: PIPUGEMU_163
+  - first:
+      213: 6596671895230566638
+    second: PIPUGEMU_164
+  - first:
+      213: -441508502857249207
+    second: PIPUGEMU_165
+  - first:
+      213: 7407034291419815243
+    second: PIPUGEMU_166
+  - first:
+      213: -2673986262760650247
+    second: PIPUGEMU_167
+  - first:
+      213: -5198617313181972229
+    second: PIPUGEMU_168
+  - first:
+      213: 8456862366807575896
+    second: PIPUGEMU_169
+  - first:
+      213: 3607248148865010904
+    second: PIPUGEMU_170
+  - first:
+      213: 2854204740153949111
+    second: PIPUGEMU_171
+  - first:
+      213: -6364757307743581035
+    second: PIPUGEMU_172
+  - first:
+      213: -3644476614667851791
+    second: PIPUGEMU_173
+  - first:
+      213: 6488014308987564777
+    second: PIPUGEMU_174
+  - first:
+      213: -6311149417568235992
+    second: PIPUGEMU_175
+  - first:
+      213: -7424217056688959509
+    second: PIPUGEMU_176
+  - first:
+      213: 4935814602786148600
+    second: PIPUGEMU_177
+  - first:
+      213: -1006789717677927612
+    second: PIPUGEMU_178
+  - first:
+      213: 7286276007773240480
+    second: PIPUGEMU_179
+  - first:
+      213: 5697278960761674820
+    second: PIPUGEMU_180
+  - first:
+      213: -5905326482861524306
+    second: PIPUGEMU_181
+  - first:
+      213: -6817281858369828496
+    second: PIPUGEMU_182
+  - first:
+      213: -865977823364414540
+    second: PIPUGEMU_183
+  - first:
+      213: 7900961524044835589
+    second: PIPUGEMU_184
+  - first:
+      213: -7588079977410413069
+    second: PIPUGEMU_185
+  - first:
+      213: 3643259044803400514
+    second: PIPUGEMU_186
+  - first:
+      213: 3903653069746219484
+    second: PIPUGEMU_187
+  - first:
+      213: 955001272445157439
+    second: PIPUGEMU_188
+  - first:
+      213: 8194236117547410494
+    second: PIPUGEMU_189
+  - first:
+      213: -3241805716102239870
+    second: PIPUGEMU_190
+  - first:
+      213: 5152937276200504950
+    second: PIPUGEMU_191
+  - first:
+      213: 4612978808635342529
+    second: PIPUGEMU_192
+  - first:
+      213: -6670312937413869412
+    second: PIPUGEMU_193
+  - first:
+      213: 3162657307084040041
+    second: PIPUGEMU_194
+  - first:
+      213: -6748716536152423526
+    second: PIPUGEMU_195
+  - first:
+      213: 7615414356829026534
+    second: PIPUGEMU_196
+  - first:
+      213: 3633427930604096019
+    second: PIPUGEMU_197
+  - first:
+      213: 8289855921012858804
+    second: PIPUGEMU_198
+  - first:
+      213: -5350271600715034909
+    second: PIPUGEMU_199
+  - first:
+      213: -6797435671048274907
+    second: PIPUGEMU_200
+  - first:
+      213: -6625535199970410947
+    second: PIPUGEMU_201
+  - first:
+      213: 893874833198484862
+    second: PIPUGEMU_202
+  - first:
+      213: -7659105674301457631
+    second: PIPUGEMU_203
+  - first:
+      213: 5714476826464388608
+    second: PIPUGEMU_204
+  - first:
+      213: -2330328543533982744
+    second: PIPUGEMU_205
+  - first:
+      213: 1720807364263912207
+    second: PIPUGEMU_206
+  - first:
+      213: -411021409319112212
+    second: PIPUGEMU_207
+  - first:
+      213: -3784667075066310040
+    second: PIPUGEMU_208
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PIPUGEMU_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea5ec62ee048f10800000000000000
+      internalID: 2270956477753962131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3350825c40aeef0800000000000000
+      internalID: -78244798699064367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d76e7c4b7204900800000000000000
+      internalID: 666576402252201367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8cd1b45b3ac4e00800000000000000
+      internalID: 1030378413805652133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237ac7da37295f10800000000000000
+      internalID: 2258879821784970016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53ee6a8b39048260800000000000000
+      internalID: 7098809063972987742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e7e4e347d03a220800000000000000
+      internalID: 2495853411406085646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82d8f5adab23560800000000000000
+      internalID: 7292096193734977759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee4c5e2e4b4d420800000000000000
+      internalID: 2653944967038561806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f8ee3e568cd7a20800000000000000
+      internalID: 3061823661623119684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98afb7c1ad3410320800000000000000
+      internalID: 2522371870364007049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1088
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c543805624dc7c60800000000000000
+      internalID: 7817356314232964549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d5ea3e67a415750800000000000000
+      internalID: 6291892028899745049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca30a94454230870800000000000000
+      internalID: 8647795653912574668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ca195e0862f220800000000000000
+      internalID: 2518189552487287164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1328c8bf501343bd0800000000000000
+      internalID: -2651440378849492431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e22ece282b20b0800000000000000
+      internalID: -5752459917543676319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a6904542e07280800000000000000
+      internalID: -9047482864323091033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e33e5f88a0c4d8e0800000000000000
+      internalID: -1669497731655257113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d553d99a40633cd40800000000000000
+      internalID: 5603381755032450397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf6a545fdcd5360800000000000000
+      internalID: 7160105435908209733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705da6c2c0055270800000000000000
+      internalID: 8238491929901092976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0ab72c42aa43d0800000000000000
+      internalID: -3221584135462449981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_23
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1024
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38a591afbd8a000800000000000000
+      internalID: 47529663301059569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4734d600293c41b10800000000000000
+      internalID: 1951399570398069620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75b7aefe03a2270800000000000000
+      internalID: 8226441476334901199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b954321afc414970800000000000000
+      internalID: 8737349389006428597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9112ec3a6af990800000000000000
+      internalID: -7351446632005525725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e081e803b9e9330800000000000000
+      internalID: 3719580975099285055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9034d224b5e780800000000000000
+      internalID: -8654313047240695811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b7d1062b0ef5eb0800000000000000
+      internalID: -4728814026994386165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c58d675c8ca740800000000000000
+      internalID: 5164657179814643832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf4db69e4d7254d0800000000000000
+      internalID: -3147315413088645169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379572084b3d2330800000000000000
+      internalID: 3687668850351249214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451343e1e1765c8d0800000000000000
+      internalID: -2826739812051701420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_35
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 960
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1479d8c5074bd7e20800000000000000
+      internalID: 3350032092515637057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fdeabdff3081980800000000000000
+      internalID: -8568093893635154075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d02d62c1b6d2000800000000000000
+      internalID: 12784142606536054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c305589975e920800000000000000
+      internalID: 3018952820390086550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b03233a72c0ea10800000000000000
+      internalID: 1936761669869046538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74cc4bdff60c220800000000000000
+      internalID: 2504124528268691431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17fc54fdb4cc2620800000000000000
+      internalID: 2750789792544126750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c12662101475b80800000000000000
+      internalID: -8406178706269004698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3799da19aaff10800000000000000
+      internalID: 2304340092138240884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba50fa58dda7190800000000000000
+      internalID: -7963809424814527536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b884a59e558e020800000000000000
+      internalID: 2371239664541010779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c426d73fbc478c70800000000000000
+      internalID: 8973225166718248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_47
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 896
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba692217fb58415c0800000000000000
+      internalID: -4245621491420195157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d7d3a05418f0820800000000000000
+      internalID: 2886668019692305728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ee5ddaa22d8140800000000000000
+      internalID: 4723469701435285519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5a673b0076e320800000000000000
+      internalID: 2586878229447597790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d948f7eb48a23640800000000000000
+      internalID: 5058290375458310617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1115769d1f7e78c0800000000000000
+      internalID: -3999619654003388131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa369aa6eee808540800000000000000
+      internalID: 5008159940278838186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16946aebf025e7200800000000000000
+      internalID: 179671262717954401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b184e20b5fd870800000000000000
+      internalID: 8709780272339597173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a8900fdd133cd0800000000000000
+      internalID: -2579685317928245324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08b0a55126d932b0800000000000000
+      internalID: -5604212822627010546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f3c0e72835b3e70800000000000000
+      internalID: 9095955692330434318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_59
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 832
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a6c4f34f84f08e0800000000000000
+      internalID: -1725079918388417939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5efe0f9c6ca5a6e0800000000000000
+      internalID: -1826864491303862692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cb00002c119d60800000000000000
+      internalID: 7895122545522491880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60be5bc257f42d0800000000000000
+      internalID: -3292283967693453624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e655fca3be6a060800000000000000
+      internalID: 6964512511594163720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691e8ecb0103be40800000000000000
+      internalID: 5670877506011273578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d44247a8644ed30800000000000000
+      internalID: 4459767091471600997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609e4251307f1100800000000000000
+      internalID: 80906675452547175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a78c6dd7245aae0800000000000000
+      internalID: -1538750589435348344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92428fac32e7ceef0800000000000000
+      internalID: -77548401377926103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc858e2e85f374c0800000000000000
+      internalID: -4290816028939285284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3d78c3d7f3b920800000000000000
+      internalID: 3005017865360063725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 768
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c55c28256a6c6f0800000000000000
+      internalID: -664661021679068032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa6aecf8f7968830800000000000000
+      internalID: 4073110008654097141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a73a112ff504010800000000000000
+      internalID: 1171041396398979710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c087d7ff15bc7fe0800000000000000
+      internalID: -1189877052625944380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691daccc63fb39040800000000000000
+      internalID: 4653273082088837526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106a2209514c52d0800000000000000
+      internalID: -3288681777343078384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903a8d3e972a6f00800000000000000
+      internalID: 1110743818691031196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f40ca74cfdfa410800000000000000
+      internalID: 1490656036648931106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6024ea609c73eb0800000000000000
+      internalID: -4740099052253608256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a8dd3687bc61c0800000000000000
+      internalID: -4509027339713600358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_81
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e53ff10141995a30800000000000000
+      internalID: 4204551435519473128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6501d595af7a46260800000000000000
+      internalID: 7089976407070937174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_83
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 704
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd956a1810942be0800000000000000
+      internalID: -1502917942438421007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d6ae4e9a1ed2d0800000000000000
+      internalID: -3252132613688208673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5915e94869ec08420800000000000000
+      internalID: 2630329328249754005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7eb2ce4531a05f0800000000000000
+      internalID: -789797529189619758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_87
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70412a34ac18fc0800000000000000
+      internalID: -3494289444031952964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395624f5928436600800000000000000
+      internalID: 460290929450968467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee74f3c99c085b0800000000000000
+      internalID: -5368069082911871342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c108ff7e157838c50800000000000000
+      internalID: 6666320659292848156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_91
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b57d16278350090800000000000000
+      internalID: -8068981093445444757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d38c6e07f84a5b40800000000000000
+      internalID: 5429732526684668881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_93
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd813aa9d92543980800000000000000
+      internalID: -8560126154866747169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_94
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2f69fdeddccb90800000000000000
+      internalID: -7220152088419947747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_95
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 640
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3992731b1060e540800000000000000
+      internalID: 5035130052806875450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20760b746de6540800000000000000
+      internalID: 5003171839445762769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb87e10822762370800000000000000
+      internalID: 8297444879632927736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f250b2b028855280800000000000000
+      internalID: -9055181801740283147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f697f28cae5ee1a00800000000000000
+      internalID: 729272986224261487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_100
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbdd56bb88a77b0800000000000000
+      internalID: -5225714079160746643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3bf8e61f567abd0800000000000000
+      internalID: -2619012570676218933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58f134c8fbde290800000000000000
+      internalID: -7859415165549181499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_103
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316f98b54e0df560800000000000000
+      internalID: 7349045859551502641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_104
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2a43079cd6c500800000000000000
+      internalID: 416262556731714210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_105
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14844689c23624f0800000000000000
+      internalID: -853939238217677795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_106
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07afbebf1f5087660800000000000000
+      internalID: 7383658125945731696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_107
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 576
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabe365385a98d630800000000000000
+      internalID: 3952078376661150634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdaf92bf04d0c00800000000000000
+      internalID: 868421750637648822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8c9a4056f1bae0800000000000000
+      internalID: -1535175173247038270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3468904fe95ba0800000000000000
+      internalID: -6099581159582974880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2baf41d2da1e6b00800000000000000
+      internalID: 823625274612493099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_112
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed8256ced09f000800000000000000
+      internalID: 70102578161573408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_113
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705512924b9c3bf60800000000000000
+      internalID: 8048998734662554887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_114
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802f15a69458e0cf0800000000000000
+      internalID: -284143176114900472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_115
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd7d1ad7adac950800000000000000
+      internalID: 6470224047792184319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_116
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3f2e00e81ae5c0800000000000000
+      internalID: -4185505553097736403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34146e95e0a18d800800000000000000
+      internalID: 637287996213051715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_118
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf776906257f880800000000000000
+      internalID: -8577296390509036297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_119
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 512
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd424da87d84f7a10800000000000000
+      internalID: 1909324857612707039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e5658dd456c870800000000000000
+      internalID: 8702736640342616260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a8187ec32a5bf0800000000000000
+      internalID: -334915852600563266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165e747c034a8fb0800000000000000
+      internalID: -4644826344906140132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2741feaece18d0800000000000000
+      internalID: -2873632261448193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f92e1d730496b540800000000000000
+      internalID: 5023365177083308537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59772cff41aba3650800000000000000
+      internalID: 6213483235264067477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7b3f572e6b2800800000000000000
+      internalID: 588685291682495458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283302b936e63fc80800000000000000
+      internalID: -8290161114975554686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56d63cf1f163a90800000000000000
+      internalID: -7334640721843100183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a6342268d23b10800000000000000
+      internalID: 1959866703885543443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_130
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea01a20385a061c0800000000000000
+      internalID: -4512424844521829649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_131
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 448
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719299121991661c0800000000000000
+      internalID: -4510889865640335081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0dece77ce07c290800000000000000
+      internalID: -7870305573817888560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f1f8f33df12050800000000000000
+      internalID: 5774174596927453523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ff6929218295b0800000000000000
+      internalID: -5363082192455994148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fbf83f8c1d6e750800000000000000
+      internalID: 6333980586953129827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_136
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df5d980b0a82f8d0800000000000000
+      internalID: -2814035037159333931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_137
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be5a97504a89540800000000000000
+      internalID: 5014938528499755808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd631314b9ec0d9f0800000000000000
+      internalID: -445629196900682021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_139
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2882197c36409b8c0800000000000000
+      internalID: -3983147568836040574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb6dd8cc25a991e0800000000000000
+      internalID: -2190538131971937331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_141
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626fcbf55b51eae70800000000000000
+      internalID: 9128257363466057254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_142
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616d89f4666e71b0800000000000000
+      internalID: -5656971498061209234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_143
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 384
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b36a4c715e7bf0800000000000000
+      internalID: -324732528858255257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e23ccf533b5ce00800000000000000
+      internalID: 1064453931398278688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_145
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9bbb9a67f40b810800000000000000
+      internalID: 1779009223883733433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_146
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba5e6e74e390c20800000000000000
+      internalID: 3173135890996636654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_147
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad2d1386ba23df0800000000000000
+      internalID: -201910569277400426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_148
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ae06a8bb876120800000000000000
+      internalID: 2407046151029040183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_149
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966f3a7e3043ce60800000000000000
+      internalID: 7981293601713776286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_150
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a148e6df02a31130800000000000000
+      internalID: 3536348321329725862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_151
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6abb4fd70c96e50800000000000000
+      internalID: 6803180359329228485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_152
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b109d0ff07f566a00800000000000000
+      internalID: 749391326923821083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_153
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81204678a11bbb10800000000000000
+      internalID: 1998210274905039243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_154
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107017061abf2d60800000000000000
+      internalID: 7867711677810110486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_155
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 320
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c20db46b27db480800000000000000
+      internalID: -8881816762823201702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a7f907fc97c8c0800000000000000
+      internalID: -3979039160920464895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_157
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd89a736f766a340800000000000000
+      internalID: 4874697953868615116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f5e0786b786e40800000000000000
+      internalID: 5649901421037220837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_159
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad1303e9560f570800000000000000
+      internalID: 8498404226935937726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11457ea4079bbe820800000000000000
+      internalID: 2948654272988271633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_161
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa98b19281d663e0800000000000000
+      internalID: -2060729420754674954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_162
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c397b7b009272c0800000000000000
+      internalID: -4435324304015934405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_163
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba03caf4835c010800000000000000
+      internalID: 1208433989861288784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_164
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0550753261c8b50800000000000000
+      internalID: 6596671895230566638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_165
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e01e91b527fd9f0800000000000000
+      internalID: -441508502857249207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_166
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d1733a1721bc660800000000000000
+      internalID: 7407034291419815243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_167
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 256
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f980e159a714ead0800000000000000
+      internalID: -2673986262760650247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c79cd81dcad7b0800000000000000
+      internalID: -5198617313181972229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_169
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4fe7248fcc5570800000000000000
+      internalID: 8456862366807575896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_170
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc8c154158f0230800000000000000
+      internalID: 3607248148865010904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_171
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbbc15c61c2c9720800000000000000
+      internalID: 2854204740153949111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_172
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c4f5653f6dba7a0800000000000000
+      internalID: -6364757307743581035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_173
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7218604d73c6dc0800000000000000
+      internalID: -3644476614667851791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_174
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fad893ae0a0a50800000000000000
+      internalID: 6488014308987564777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_175
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e8e69ea0b4a68a0800000000000000
+      internalID: -6311149417568235992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_176
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef88a01ce1e7f890800000000000000
+      internalID: -7424217056688959509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_177
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0114cea398f7440800000000000000
+      internalID: 4935814602786148600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_178
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4439a42061a2702f0800000000000000
+      internalID: -1006789717677927612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_179
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 192
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac76cabc6d0e1560800000000000000
+      internalID: 7286276007773240480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9182870dc01f40800000000000000
+      internalID: 5697278960761674820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_181
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf4520ad01c0ea0800000000000000
+      internalID: -5905326482861524306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_182
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c622f4462461a0800000000000000
+      internalID: -6817281858369828496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_183
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38ffef1cd6bf3f0800000000000000
+      internalID: -865977823364414540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_184
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ba8b025aad5ad60800000000000000
+      internalID: 7900961524044835589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_185
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb233c679b1b690800000000000000
+      internalID: -7588079977410413069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_186
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435c366cc47f8230800000000000000
+      internalID: 3643259044803400514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_187
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92694d8cf8c2630800000000000000
+      internalID: 3903653069746219484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_188
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c324f898d04d00800000000000000
+      internalID: 955001272445157439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_189
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e6108556c7b170800000000000000
+      internalID: 8194236117547410494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_190
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28925e480eac203d0800000000000000
+      internalID: -3241805716102239870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_191
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 128
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eccc9b629e28740800000000000000
+      internalID: 5152937276200504950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce3d1d29c7940040800000000000000
+      internalID: 4612978808635342529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_193
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9001c869b94e63a0800000000000000
+      internalID: -6670312937413869412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_194
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a907701404eb20800000000000000
+      internalID: 3162657307084040041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_195
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9384dc011eb752a0800000000000000
+      internalID: -6748716536152423526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_196
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8343462036fa960800000000000000
+      internalID: 7615414356829026534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_197
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac3a0c3778c6230800000000000000
+      internalID: 3633427930604096019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_198
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfd323e90c7b0370800000000000000
+      internalID: 8289855921012858804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_199
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee058b735400c5b0800000000000000
+      internalID: -5350271600715034909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_200
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c39938548aaa1a0800000000000000
+      internalID: -6797435671048274907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_201
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebae6d6de5d04a0800000000000000
+      internalID: -6625535199970410947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_202
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d0572cc6ea76c00800000000000000
+      internalID: 893874833198484862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_203
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 64
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b351a08f365b590800000000000000
+      internalID: -7659105674301457631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0068c96a566ed4f40800000000000000
+      internalID: 5714476826464388608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb14b8498209afd0800000000000000
+      internalID: -2330328543533982744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_206
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a3d93e2981e710800000000000000
+      internalID: 1720807364263912207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_207
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13476b432cb4af0800000000000000
+      internalID: -411021409319112212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIPUGEMU_208
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625e85e8592a7bc0800000000000000
+      internalID: -3784667075066310040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
